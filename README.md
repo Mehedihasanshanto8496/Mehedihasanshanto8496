@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Mehedi Hasan Shanto
 
-
-**Mehedihasanshanto8496/Mehedihasanshanto8496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🎓 CSE Student  
+- 💻 Frontend Developer  
+- 🌐 HTML | CSS | JavaScript (ES6)  
+- ⚛️ React.js Enthusiast  
+- 🎨 Passionate about UI/UX Design  
+- 🚀 Building modern web projects  
+- 🌱 Currently improving problem solving & frontend skills  
+- 🤝 Open to collaboration on web development projects  
+- 📫 Reach me: shanto8496@gmail.com  
+- ⚡ Fun fact: I love turning designs into real websites  
